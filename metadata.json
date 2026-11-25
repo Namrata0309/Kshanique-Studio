@@ -1,0 +1,8 @@
+{
+  "name": "Kshanique Studio",
+  "description": "Where Moments Become Extraordinary — Personalised digital invitations and celebration websites for birthdays, weddings, engagements, and anniversaries.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
